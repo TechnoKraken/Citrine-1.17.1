@@ -2,7 +2,7 @@ package com.technokraken.ct.citrine.block;
 
 import com.technokraken.ct.citrine.Citrine;
 import com.technokraken.ct.citrine.item.ModCreativeModeTab;
-import com.technokraken.ct.citrine.item.ModItems;
+import com.technokraken.ct.citrine.init.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;

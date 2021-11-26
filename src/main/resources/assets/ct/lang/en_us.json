@@ -1,7 +1,16 @@
 {
   "item.ct.citrine": "Citrine",
   "item.ct.raw_citrine": "Raw Citrine",
-  "item.ct.blizzarded_citrine": "Blizzarded Citrine",
+  "item.ct.blizzarded_citrine": "§bBlizzarded Citrine",
+  "item.ct.blizzarded_axe": "§bBlizzarded Citrine Axe",
+  "item.ct.blizzarded_pickaxe": "§bBlizzarded Citrine Pickaxe",
+  "item.ct.blizzarded_sword": "§bBlizzarded Citrine Sword",
+  "item.ct.blizzarded_shovel": "§bBlizzarded Citrine Shovel",
+  "item.ct.blizzarded_hoe": "§bBlizzarded Citrine Hoe",
+  "item.ct.blizzarded_helmet": "§bBlizzarded Citrine Helmet",
+  "item.ct.blizzarded_chestplate": "§bBlizzarded Citrine Chestplate",
+  "item.ct.blizzarded_leggings": "§bBlizzarded Citrine Leggings",
+  "item.ct.blizzarded_boots": "§bBlizzarded Citrine Boots",
 
   "block.ct.citrine_block": "Citrine Block",
   "block.ct.citrine_ore": "Citrine Ore",

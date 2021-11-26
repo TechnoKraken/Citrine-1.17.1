@@ -1,5 +1,6 @@
 package com.technokraken.ct.citrine.item;
 
+import com.technokraken.ct.citrine.init.ModItems;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
