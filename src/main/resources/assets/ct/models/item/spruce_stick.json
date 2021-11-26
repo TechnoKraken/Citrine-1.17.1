@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ct:items/blizzarded_shovel"
+    "layer0": "ct:items/spruce_stick"
   }
 }

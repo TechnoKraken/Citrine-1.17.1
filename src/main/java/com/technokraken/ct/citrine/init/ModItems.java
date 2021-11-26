@@ -13,15 +13,17 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, Citrine.MOD_ID);
 
+    // Items
     public static final RegistryObject<Item> CITRINE = ITEMS.register("citrine",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
 
     public static final RegistryObject<Item> RAW_CITRINE = ITEMS.register("raw_citrine",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
 
-    // Items
-
     public static final RegistryObject<Item> BLIZZARDED_CITRINE = ITEMS.register("blizzarded_citrine",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
+
+    public static final RegistryObject<Item> SPRUCE_STICK = ITEMS.register("spruce_stick",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
 
     // Tools
