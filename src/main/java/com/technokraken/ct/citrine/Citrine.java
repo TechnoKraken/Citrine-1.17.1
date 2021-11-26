@@ -1,5 +1,7 @@
 package  com.technokraken.ct.citrine;
 
+import com.technokraken.ct.citrine.block.ModBlocks;
+import com.technokraken.ct.citrine.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -28,6 +30,9 @@ public class Citrine {
 
     public Citrine() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 
