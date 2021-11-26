@@ -18,6 +18,9 @@ public class ModItems {
     public static final RegistryObject<Item> RAW_CITRINE = ITEMS.register("raw_citrine",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
 
+    public static final RegistryObject<Item> BLIZZARDED_CITRINE = ITEMS.register("blizzarded_citrine",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CITRINE_TAB)));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

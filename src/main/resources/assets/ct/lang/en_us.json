@@ -1,8 +1,10 @@
 {
   "item.ct.citrine": "Citrine",
   "item.ct.raw_citrine": "Raw Citrine",
+  "item.ct.blizzarded_citrine": "Blizzarded Citrine",
 
   "block.ct.citrine_block": "Citrine Block",
   "block.ct.citrine_ore": "Citrine Ore",
+
   "itemGroup.citrineModTab": "Citrine 1.17.1"
 }
